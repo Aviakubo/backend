@@ -1,14 +1,14 @@
 [
     {
-      "name": "project1",
-      "live": "https://app.herokuapp.com/whatever",
-      "git": "http://www.github.com/username/reponame",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "name": "Pick a Card",
+      "live": "https://pick-a-card-magic.vercel.app/",
+      "git": "hhttps://github.com/Aviakubo/pick-a-card-magic",
+      "image": "https://imgur.com/EUuLewu"
     },
     {
-      "name": "project2",
-      "live": "https://app.netlify.app/whatever",
-      "git": "http://www.github.com/username/reponame",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "name": "Magician's Inventory",
+      "live": "https://dyakubov-project2.herokuapp.com/inventory",
+      "git": "https://github.com/Aviakubo/dyakubov-project2",
+      "image": "https://imgur.com/a/HhkuaCQ"
     }
   ]
